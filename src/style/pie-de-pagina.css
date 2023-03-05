@@ -1,0 +1,28 @@
+.Pie-De-Pagina{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(200deg, rgb(123, 57, 24), rgb(197, 134, 72));
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 3px 13px 1px  rgba(0, 0, 0, 0.501);
+}
+
+.pa {
+  font-size: 3rem;
+  margin-right:40px;
+}
+
+.Pie-De-Pagina a {
+  font-size: 3rem;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  margin-right:40px;
+}
+
+.Pie-De-Pagina a:hover {
+  color: blue;
+  transition: all 0.6s ease;
+}

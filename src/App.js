@@ -1,7 +1,8 @@
 import './App.css';
 import Cabecera from './componentes/cabecera.jsx';
 import Izquierda from './componentes/parrafo-1.jsx';
-import Derecha from './componentes/parrafo-2';
+import Derecha from './componentes/parrafo-2.jsx';
+import PieDePagina from './componentes/pie-de-pagina.jsx';
 
 
 
@@ -139,7 +140,7 @@ function App() {
 
       </section>
       <footer className='App-footer'>
-
+        <PieDePagina/>
       </footer>
     </div>
   );
