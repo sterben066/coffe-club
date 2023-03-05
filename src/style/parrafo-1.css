@@ -1,0 +1,35 @@
+.contenedor-Izquierda{
+  width: 1400px;
+  height: 428px;
+  margin: 10px 10px 50px;
+  display: flex;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  box-shadow: 0 3px 13px 1px  rgba(0, 0, 0, 0.500);
+  background: linear-gradient(200deg, rgb(123, 57, 24), rgb(197, 134, 72));
+}
+.imagen-Izquierda{
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  height: 100%;
+}
+.contenedor-texto-izquierda{
+  color: white;
+  padding: 40px;
+  line-height: 1.5rem;
+}
+
+.titulo-izquierda{
+  font-size: 2rem;
+  margin: 15px;
+  padding-bottom: 30px;
+}
+.texto-cafe-izquierda{
+  font-size: 1.5rem;
+  text-align: justify;
+}
+a{
+  font-size: 2rem;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}

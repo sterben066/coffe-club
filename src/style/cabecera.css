@@ -1,0 +1,16 @@
+
+.cabecera{
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(200deg, rgb(123, 57, 24), rgb(197, 134, 72));
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  color: rgb(255, 255, 255);
+  box-shadow: 0 3px 13px 1px  rgba(0, 0, 0, 0.501);
+}
+
+h1 {
+  font-size: 7rem;
+}
