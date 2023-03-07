@@ -3,7 +3,7 @@
   height: 150px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content:space-evenly;
   background: linear-gradient(200deg, rgb(123, 57, 24), rgb(197, 134, 72));
   border-bottom-left-radius: 40px;
   border-bottom-right-radius: 40px;

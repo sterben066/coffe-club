@@ -12,9 +12,7 @@ function App() {
       <header id='App-header'>
         <Cabecera
           imagen='LogoP3'
-          tipo='LogoP'> 
-        </Cabecera>
-        
+          tipo='LogoP'/>         
       </header>
       <section id='App-section'>
         <Izquierda

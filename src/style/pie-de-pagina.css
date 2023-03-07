@@ -2,7 +2,7 @@
     height: 150px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background: linear-gradient(200deg, rgb(123, 57, 24), rgb(197, 134, 72));
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
