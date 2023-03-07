@@ -1,13 +1,15 @@
 import React from 'react';
+import Menu from './nav';
 import '../style/cabecera.css';
 
 
-let Cabecera = () => {
+function Cabecera(props) {
   return(
     <div className='cabecera'>
-      <h1 className='titulo'>
-        Cofee Club
-      </h1>
+      <img src={require( `../multimedia/imagenes/${props.imagen}.jpg`)}
+        alt={(`nombre-${props.tipo}`)}
+        title={(`${props.tipo}`)} />
+      <Menu/>
     </div>
   )
 }

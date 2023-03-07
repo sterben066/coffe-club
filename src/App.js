@@ -10,7 +10,11 @@ function App() {
   return (
     <div className='App'>
       <header id='App-header'>
-        <Cabecera/>
+        <Cabecera
+          imagen='LogoP3'
+          tipo='LogoP'> 
+        </Cabecera>
+        
       </header>
       <section id='App-section'>
         <Izquierda
