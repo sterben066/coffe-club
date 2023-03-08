@@ -33,3 +33,7 @@
     text-decoration: none;
     color: rgb(255, 255, 255);
   }
+  a:hover {
+    color: blue;
+    transition: 0.3s;
+  }

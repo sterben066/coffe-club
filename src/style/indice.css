@@ -1,0 +1,23 @@
+.cTipos{
+  margin: 40px;
+  color: white;
+  display: grid;
+  text-align: center;
+  justify-content: center;
+
+}
+.cTitulo{
+  margin: 20px;
+  width: 600px;
+  border-radius: 50px;
+  background-color: aqua;
+  box-shadow: 0 3px 13px 1px  rgba(0, 0, 0, 0.500);
+  background: linear-gradient(200deg, rgb(123, 57, 24), rgb(197, 134, 72));
+}
+.Titulo{
+  font-size: 4rem;
+}
+.tipos{
+  border-radius: 40px;
+  box-shadow: 0 3px 13px 1px  rgba(0, 0, 0, 0.500);
+}
